@@ -20,11 +20,15 @@
 
 ---
 
+## 📁 Folder Structure
+
+```plaintext
 foryou_widget/
 ├── assests/             # Contains image assets
 ├── index.html           # Main HTML file
 ├── index.js             # JavaScript functionality
 └── style.css            # CSS styling
+
 
 📌 Future Enhancements
  Integrate dynamic data sources (e.g., weather APIs).
