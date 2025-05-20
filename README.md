@@ -1,8 +1,14 @@
+
+https://github.com/user-attachments/assets/5e47967e-19e1-4777-829c-4f82fb517194
 # 🎨 ForYou Widget
 
 **ForYou Widget** is a minimalist, pixel-art-inspired desktop widget developed using **HTML**, **CSS**, and **JavaScript**. Designed for aesthetic appeal, it offers a static display that can be customized to suit personal preferences.
 
 ---
+
+
+Uploading Recording 2025-05-04 103236.mp4…
+
 
 ## ✨ Features
 
